@@ -4,7 +4,7 @@
 - Postman
 - Newman
 
-## Scenerio
+## Scenario
 1. Admin creates an agent and random 2 customer
 2. Give some money from SYSTEM account to the agent
 3. Agent deposit to any of 1 customer
